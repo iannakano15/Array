@@ -1,5 +1,5 @@
 // Name: Ian Nakano
-// Course: CISC 192 (14498)
+// Course: CISC 192 - C++ Programming
 // Date: 11/01/2025
 // Assignment: Non-Duplicated Integer Array Operations
 
