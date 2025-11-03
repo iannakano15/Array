@@ -1,3 +1,8 @@
+// Name: Ian Nakano
+// Course: CISC 192 (14498)
+// Date: 11/01/2025
+// Assignment: Non-Duplicated Integer Array Operations
+
 #include <iostream>
 #include <array>
 
