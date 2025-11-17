@@ -1,5 +1,36 @@
-// Name: Ian Nakano // Course: CISC 192 - C++ Programming // Date: 11/01/2025 // Assignment: Non-Duplicated Integer Array Operations
+# Non-Duplicated Integrer Array Operations
 
+## Name: Ian Nakano 
+
+## Course: CISC 192 - C++ Programming
+
+## Date: 11/01/2025
+
+---
+
+## Description
+This C++ program allows the user to enter **5 unique integers**. 
+The program then presents a menu to: 
+
+* Sort the array in **ascending order**
+* Sort the array in **descending order**
+* Find the **maximum number** in the array
+
+It ensures **no duplicate numbers** are entered.
+
+---
+
+## Instructions 
+
+1. Run the program:
+2. Enter 5 unique integers when prompted.
+3. Choose an option from the menu: a, b, or c.
+4. The program will display the sorted array or the maximum number.
+
+---
+
+
+```cpp
 #include <iostream>
 #include <array>
 
